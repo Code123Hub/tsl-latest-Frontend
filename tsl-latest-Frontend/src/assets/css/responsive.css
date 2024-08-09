@@ -1,0 +1,233 @@
+@media only screen and (max-width: 1366px) {
+    span {
+        font-size: 40px !important;
+    }
+
+    .benefit-item {
+        height: 100% !important;
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .logo-stl {
+        width: 120px;
+        height: 60px;
+    }
+
+    .navbar a {
+        font-size: 13px;
+        font-weight: 700;
+        margin: 0 12px;
+    }
+
+    .nav-div {
+        margin-right: 0px !important;
+    }
+
+    button {
+        width: 102px;
+        font-size: 15px !important;
+    }
+
+    .benefit-title {
+        font-size: 15px !important;
+    }
+
+}
+
+@media only screen and (max-width: 1024px) {
+    button {
+        width: 92px;
+    }
+
+    .download-div {
+        width: 80% !important;
+        margin: auto;
+    }
+
+    .category-container .container1 {
+        font-size: 25px;
+        line-height: 1.2;
+        margin-top: 80px;
+    }
+
+    .category-container h2 {
+        font-size: 25px !important;
+        line-height: 1.2 !important;
+        margin-top: 80px !important;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .banner-search {
+        height: 60px;
+    }
+
+    .category-container p {
+        margin-top: 20px;
+    }
+
+    .step-item {
+        height: auto !important;
+    }
+
+    .benefit-description {
+        font-size: 17px !important;
+    }
+
+    .benefit-title {
+        font-size: 18px !important;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+    .package {
+        flex-wrap: wrap !important;
+        gap: 30px !important;
+    }
+
+    .package-card {
+        width: 80% !important;
+        margin: auto !important;
+    }
+
+    .slice-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+    .column {
+        font-size: 14px;
+    }
+
+    .download-div {
+        height: 120px !important;
+    }
+
+    .banner-search {
+        width: 70% !important;
+        height: 55px;
+        bottom: 100px;
+    }
+
+    .banner-search1 input {
+        width: 100% !important;
+    }
+
+    .banner-search button {
+        margin-right: 5px;
+        margin-top: 0px;
+        font-size: 14px;
+    }
+
+    span {
+        font-size: 35px !important;
+    }
+
+    .benefit-container .benefit-item {
+        flex: none !important;
+    }
+
+    .banner-text h2 {
+        font-size: 2rem !important;
+    }
+
+
+}
+
+@media only screen and (max-width: 675px) {
+    .download-div-1 span {
+        font-size: 25px;
+    }
+
+}
+
+@media only screen and (max-width: 520px) {
+    .category-container {
+        padding: 5px !important;
+    }
+
+    .step-item {
+        margin: 0px 0px 100px 0px !important;
+        padding: 7px !important;
+    }
+
+    .step-item p {
+        margin-top: 15px !important;
+    }
+
+    .card-style-1 h2 {
+        margin-top: 0px !important;
+    }
+
+    .category-container .container1 {
+        margin-top: 100px !important;
+    }
+
+    .div-step {
+        padding-bottom: 0px !important;
+    }
+
+    .slice-grid {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+
+    .column {
+        font-size: 12px;
+        margin-left: 10px;
+    }
+
+    .column p {
+        line-height: 1.1;
+    }
+
+    .download-div {
+        height: 100px !important;
+    }
+
+    .banner-text h2 {
+        font-size: 1.2rem !important;
+    }
+
+    .banner-text p {
+        margin-top: 10px;
+        font-size: 1rem;
+    }
+
+    .banner-image {
+        height: 600px !important;
+    }
+
+    .banner-search {
+        bottom: 85px;
+        height: 50px !important;
+    }
+
+    .fa-xl {
+        font-size: 1.1em;
+    }
+
+    .banner-search1 .search-icon {
+        margin-left: 10px;
+    }
+
+    .banner-search1 input {
+        font-size: 13px;
+    }
+
+    .banner-search button {
+        width: 140px !important;
+        font-size: 14px !important;
+        height: 35px;
+        padding: 0px !important;
+    }
+
+    .download-div {
+        width: 85% !important;
+    }
+
+    .benefit-item h2 {
+        margin-top: 40px !important;
+    }
+}

@@ -1,0 +1,12 @@
+.text-cnt {
+    text-align: center;
+}
+
+.pad-new-60 {
+    padding: 60px 0px;
+}
+
+.pad-accord-20 {
+    padding: 20px;
+    background-color: #c1c1c124 !important;
+}
